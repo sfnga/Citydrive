@@ -20,7 +20,7 @@ def task(order_df, city_df):
     return result_df
 ```
 
-## [Задание на SQL]
+## [Задание на SQL](https://github.com/sfnga/Citydrive/blob/main/task.sql)
 В файле запрос по заданию, а также создание и заполнение таблиц для проверки результата
 
 Результирующий запрос:
